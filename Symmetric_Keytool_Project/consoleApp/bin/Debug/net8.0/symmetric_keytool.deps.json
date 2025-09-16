@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "symmetric_keytool/1.0.0": {
+        "runtime": {
+          "symmetric_keytool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "symmetric_keytool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

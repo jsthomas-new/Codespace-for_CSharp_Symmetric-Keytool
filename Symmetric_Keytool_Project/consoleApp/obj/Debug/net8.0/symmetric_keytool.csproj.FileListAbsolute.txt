@@ -1,0 +1,15 @@
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/bin/Debug/net8.0/symmetric_keytool
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/bin/Debug/net8.0/symmetric_keytool.deps.json
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/bin/Debug/net8.0/symmetric_keytool.runtimeconfig.json
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/bin/Debug/net8.0/symmetric_keytool.dll
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/bin/Debug/net8.0/symmetric_keytool.pdb
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.AssemblyInfoInputs.cache
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.AssemblyInfo.cs
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.csproj.CoreCompileInputs.cache
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.sourcelink.json
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.dll
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/refint/symmetric_keytool.dll
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.pdb
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/symmetric_keytool.genruntimeconfig.cache
+/workspaces/Codespace-for_CSharp_Symmetric-Keytool/Symmetric_Keytool_Project/consoleApp/obj/Debug/net8.0/ref/symmetric_keytool.dll

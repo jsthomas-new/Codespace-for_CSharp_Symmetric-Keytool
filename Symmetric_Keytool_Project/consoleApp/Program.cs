@@ -1,0 +1,25 @@
+﻿using System.Security.Cryptography;
+using symmetric_keytool;
+// See https://aka.ms/new-console-template for more information
+
+var secretText = "jim-dad-Lives-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour";
+
+//For AES, the legal key sizes are 128, 192, and 256 bits.
+const int keySize = 256;
+
+Encryptor encryptor = new Encryptor(secretText, keySize);
+Decryptor decryptor = new Decryptor(encryptor.OutputPhrase, encryptor.Key, keySize, encryptor.IvSize);
+Console.WriteLine($@"
+Encryptor:
+   Input Phrase = {secretText}
+   Output Phrase = {encryptor.OutputPhrase}
+Decryptor:
+   Input Phrase = {encryptor.OutputPhrase}
+   Output Phrase = {decryptor.OutputPhrase}");
+
+bool isEqual = secretText == decryptor.OutputPhrase;
+Console.WriteLine($@"
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Assert secretText equals decrypted-secretText: {isEqual}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+");
