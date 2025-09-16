@@ -2,7 +2,7 @@
 using symmetric_keytool;
 // See https://aka.ms/new-console-template for more information
 
-var secretText = "jim-dad-Lives-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour";
+var secretText = "james-mom-tom-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour-joe-Mama-Lives-Juniour";
 
 //For AES, the legal key sizes are 128, 192, and 256 bits.
 const int keySize = 256;
